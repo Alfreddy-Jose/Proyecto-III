@@ -2,4 +2,4 @@
 
 ## Acerca de un sistema sobre horarios para la coordinacion del PNFI en la UPTYAB
 
-### Esta app web estara echa en laravel  
+### Esta app web esta hecha en laravel  
